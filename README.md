@@ -30,7 +30,7 @@ This project is part of a data analyst internship task. The goal is to explore t
 - Age and fare both showed interesting patterns with survival
 
 ## Dataset Used
-The dataset used is the Titanic train set from Kaggle:
+- The dataset used is the Titanic train set from Kaggle:
 https://www.kaggle.com/competitions/titanic/data
 
 ## Folder Contents
