@@ -14,11 +14,11 @@ This project is part of a data analyst internship task. The goal is to explore t
 - Summarized key findings and answered EDA-related questions
 
 ## Tools Used
--Python
+- Python
  - Pandas
  - Matplotlib
  - Seaborn
--Jupyter Notebook
+- Jupyter Notebook
 
 ## Key Insights
 
